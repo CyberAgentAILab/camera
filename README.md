@@ -1,5 +1,5 @@
 # 📷CAMERA dataset
-CAMERA (CA Multimodal Evaluation for Ad Text GeneRAtion) is the Japanese ad text generation dataset.
+CAMERA (CyberAgent Multimodal Evaluation for Ad Text GeneRAtion) is the Japanese ad text generation dataset.
 We hope that our dataset will be useful in research for realizing more advanced ad text generation models.
 The dataset is splitted into `train.csv`, `dev.csv`, and `test.csv`. LP (Landing Pages) images are stored in the `lp-screenshot/` and are associated with the text data (`*.csv`) by asset ids (`asset_id`).
 
@@ -34,6 +34,7 @@ Thank you for your interest in our dataset. If you use it in your research, plea
 	title =		"広告文生成タスクの規定とベンチマーク構築", 
 	booktitle =	"言語処理学会 第29回年次大会",
 	year =		2023,
+	}
 ```
 
 # License
