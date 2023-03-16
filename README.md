@@ -6,9 +6,10 @@ The dataset is splitted into `train.csv`, `dev.csv`, and `test.csv`. LP (Landing
 
 
 # Dataset
-- [Download the CAMERA dataset w/o LP images (ver.1.0.0 | 126.2 MiB)](https://storage.cloud.google.com/camera-public/camera-v1-minimal.tar.gz)
-- [Download the CAMERA dataset w/ LP images (ver.1.0.0 | 61.5 GiB)](https://storage.cloud.google.com/camera-public/camera-v1.tar.gz)
+- [Download the CAMERA dataset w/o LP images (ver.1.0.0 | 126.2 MiB)](https://storage.googleapis.com/camera-public/camera-v1-minimal.tar.gz)
+- [Download the CAMERA dataset w/ LP images (ver.1.0.0 | 61.5 GiB)](https://storage.googleapis.com/camera-public/camera-v1.tar.gz)
 
+Note: The `wget` command is not available.
 
 
 |  Name  |  Description  |
