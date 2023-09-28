@@ -11,6 +11,7 @@ The dataset is splitted into `train.csv`, `dev.csv`, and `test.csv`. LP (Landing
 
 Note: The `wget` command is not available.
 
+You can also access this dataset via the [Hugging Face Hub](https://huggingface.co/datasets/shunk031/CAMERA). 
 
 |  Name  |  Description  |
 | ---- | ---- |
