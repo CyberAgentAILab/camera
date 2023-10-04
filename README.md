@@ -30,12 +30,14 @@ Note: The `wget` command is not available.
 Thank you for your interest in our dataset. If you use it in your research, please cite:
 
 ```
-@inproceedings{mita-et-al:nlp2023,
-	author =	"三田 雅人 and 村上 聡一朗 and 張 培楠",
-	title =		"広告文生成タスクの規定とベンチマーク構築", 
-	booktitle =	"言語処理学会 第29回年次大会",
-	year =		2023,
-	}
+@misc{mita2023,
+      title={CAMERA: A Multimodal Dataset and Benchmark for Ad Text Generation}, 
+      author={Masato Mita and Soichiro Murakami and Akihiko Kato and Peinan Zhang},
+      year={2023},
+      eprint={2309.12030},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 # License
