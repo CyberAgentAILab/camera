@@ -30,10 +30,10 @@ Note: The `wget` command is not available.
 Thank you for your interest in our dataset. If you use it in your research, please cite:
 
 ```
-@misc{mita2023,
-      title={CAMERA: A Multimodal Dataset and Benchmark for Ad Text Generation}, 
+@misc{mita2024,
+      title={Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation}, 
       author={Masato Mita and Soichiro Murakami and Akihiko Kato and Peinan Zhang},
-      year={2023},
+      year={2024},
       eprint={2309.12030},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
