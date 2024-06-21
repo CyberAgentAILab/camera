@@ -7,7 +7,9 @@ The dataset is split into `train.csv`, `dev.csv`, and `test.csv`. LP (Landing Pa
 
 # Updats
 - [Our paper](https://arxiv.org/abs/2309.12030) has been accepted to [ACL2024](https://2024.aclweb.org/)🎉[2024-06-21]
+  - Major updates have been made to the dataset accordingly (V2.2.0).
 - This dataset is also available in [the Hugging Face dataset](https://huggingface.co/datasets/cyberagent/camera)🎉[2024-06-21]
+
 
 
 
