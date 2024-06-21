@@ -6,8 +6,8 @@ We hope that our dataset will be useful in research for realizing more advanced 
 The dataset is split into `train.csv`, `dev.csv`, and `test.csv`. LP (Landing Pages) images are stored in the `lp-screenshot/` and are associated with the text data (`*.csv`) by asset ids (`asset_id`).
 
 # Updats
-- [Our paper](https://arxiv.org/abs/2309.12030) has been accepted to [ACL2024](https://2024.aclweb.org/)🎉
-- This dataset is also available in [the Hugging Face dataset](https://huggingface.co/datasets/cyberagent/camera)🎉
+- [Our paper](https://arxiv.org/abs/2309.12030) has been accepted to [ACL2024](https://2024.aclweb.org/)🎉[2024-06-21]
+- This dataset is also available in [the Hugging Face dataset](https://huggingface.co/datasets/cyberagent/camera)🎉[2024-06-21]
 
 
 
