@@ -1,7 +1,13 @@
+
+
 # 📷CAMERA dataset
 CAMERA (CyberAgent Multimodal Evaluation for Ad Text GeneRAtion) is the Japanese ad text generation dataset.
 We hope that our dataset will be useful in research for realizing more advanced ad text generation models.
-The dataset is splitted into `train.csv`, `dev.csv`, and `test.csv`. LP (Landing Pages) images are stored in the `lp-screenshot/` and are associated with the text data (`*.csv`) by asset ids (`asset_id`).
+The dataset is split into `train.csv`, `dev.csv`, and `test.csv`. LP (Landing Pages) images are stored in the `lp-screenshot/` and are associated with the text data (`*.csv`) by asset ids (`asset_id`).
+
+# Updats
+- [Our paper](https://arxiv.org/abs/2309.12030) has been accepted to [ACL2024](https://2024.aclweb.org/)🎉
+- This dataset is also available in [the Hugging Face dataset](https://huggingface.co/datasets/cyberagent/camera)🎉
 
 
 
@@ -18,7 +24,7 @@ Note: The `wget` command is not available.
 |  kw  |  search keyword  |
 |  lp_meta_description  |  meta description extracted from LP (i.e., LP Text)|
 |  title_org  |  ad text (original gold reference) |
-|  title_ne{1-3}  |  ad text (additonal gold references for multi-reference evaluation |
+|  title_ne{1-3}  |  ad text (additional gold references for multi-reference evaluation |
 |  domain  |  industry domain (HR, EC, Fin, Edu) for industry-wise evaluation |
 |  parsed_full_text_annotation  |  OCR results for LP images  |
 
