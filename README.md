@@ -8,8 +8,6 @@ The dataset is split into `train.csv`, `dev.csv`, and `test.csv`. LP (Landing Pa
 # Updats
 - [Our paper](https://arxiv.org/abs/2309.12030) has been accepted to [ACL2024](https://2024.aclweb.org/)🎉[2024-06-21]
   - Major updates have been made to the dataset accordingly (V2.2.0).
-  - This dataset is also available in [the Hugging Face dataset](https://huggingface.co/datasets/cyberagent/camera).
-
 
 
 
@@ -18,6 +16,8 @@ The dataset is split into `train.csv`, `dev.csv`, and `test.csv`. LP (Landing Pa
 - [Download the CAMERA dataset w/ LP images (ver.2.2.0 | 61.5 GiB)](https://storage.googleapis.com/camera-public/camera-v2.2.tar.gz)
 
 Note: The `wget` command is not available.
+
+You can also access this dataset via the [Hugging Face Hub](https://huggingface.co/datasets/cyberagent/camera). 
 
 
 |  Name  |  Description  |
