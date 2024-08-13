@@ -6,7 +6,7 @@ We hope that our dataset will be useful in research for realizing more advanced 
 The dataset is split into `train.csv`, `dev.csv`, and `test.csv`. LP (Landing Pages) images are stored in the `lp-screenshot/` and are associated with the text data (`*.csv`) by asset ids (`asset_id`).
 
 # Updats
-- [Our paper](https://arxiv.org/abs/2309.12030) has been accepted to [ACL2024](https://2024.aclweb.org/)🎉[2024-06-21]
+- [Our paper](https://aclanthology.org/2024.acl-long.54/) has been accepted to [ACL2024](https://2024.aclweb.org/)🎉[2024-08-13]
   - Major updates have been made to the dataset accordingly (V2.2.0).
 
 
@@ -38,13 +38,23 @@ You can also access this dataset via the [Hugging Face Hub](https://huggingface.
 Thank you for your interest in our dataset. If you use it in your research, please cite:
 
 ```
-@misc{mita2024striking,
-      title={Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation}, 
-      author={Masato Mita and Soichiro Murakami and Akihiko Kato and Peinan Zhang},
-      year={2024},
-      eprint={2309.12030},
-      archivePrefix={arXiv},
-      primaryClass={id='cs.CL' full_name='Computation and Language' is_active=True alt_name='cmp-lg' in_archive='cs' is_general=False description='Covers natural language processing. Roughly includes material in ACM Subject Class I.2.7. Note that work on artificial languages (programming languages, logics, formal systems) that does not explicitly address natural-language issues broadly construed (natural-language processing, computational linguistics, speech, text retrieval, etc.) is not appropriate for this area.'}
+@inproceedings{mita-etal-2024-striking,
+    title = "Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation",
+    author = "Mita, Masato  and
+      Murakami, Soichiro  and
+      Kato, Akihiko  and
+      Zhang, Peinan",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.54",
+    pages = "955--972",
+    abstract = "In response to the limitations of manual ad creation, significant research has been conducted in the field of automatic ad text generation (ATG). However, the lack of comprehensive benchmarks and well-defined problem sets has made comparing different methods challenging. To tackle these challenges, we standardize the task of ATG and propose a first benchmark dataset, CAMERA, carefully designed and enabling the utilization of multi-modal information and facilitating industry-wise evaluations. Our extensive experiments with a variety of nine baselines, from classical methods to state-of-the-art models including large language models (LLMs), show the current state and the remaining challenges. We also explore how existing metrics in ATG and an LLM-based evaluator align with human evaluations.",
 }
 ```
 
